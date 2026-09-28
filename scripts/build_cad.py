@@ -292,7 +292,7 @@ for key,entry in PARTS.items():
     report.append({'part':key,'solid_valid':s.isValid(),'solids':len(entry['shape'].solids().vals()),'volume_mm3':round(s.Volume(),2),'dimensions_mm':[round(bb.xlen,2),round(bb.ylen,2),round(bb.zlen,2)],'mesh_watertight':None if mesh is None else bool(mesh.is_watertight),'quantity':quantities.get(key,1),'material':entry['material'],'note':entry['note']})
 (OUT/'geometry_report.json').write_text(json.dumps(report,indent=2))
 with (ROOT/'docs'/'parts_manifest.csv').open('w',newline='') as f:
-    w=csv.writer(f);w.writerow(['part','quantity','material','volume_mm3','note'])
+    w=csv.writer(f,lineterminator="\n");w.writerow(['part','quantity','material','volume_mm3','note'])
     for row in report:w.writerow([row['part'],row['quantity'],row['material'],row['volume_mm3'],row['note']])
 
 # Store indexed meshes once for a lightweight inspectable browser preview.

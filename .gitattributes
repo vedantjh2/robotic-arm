@@ -1,0 +1,13 @@
+*.step binary
+*.stl binary
+*.glb binary
+*.png binary
+*.blend binary
+*.csv text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+output/** linguist-generated=true
+viewer/index.html linguist-generated=true
+viewer/model.json linguist-generated=true

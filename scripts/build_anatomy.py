@@ -242,7 +242,7 @@ for k,e in PART.items():
     s=e['shape'].val();b=s.BoundingBox();report.append({'part':k,'quantity':qty.get(k,1),'material':e['material'],'note':e['note'],'solid_valid':s.isValid(),'solids':len(e['shape'].solids().vals()),'mesh_watertight':None if k not in meshes else bool(meshes[k].is_watertight),'volume_mm3':round(s.Volume(),2),'dimensions_mm':[round(b.xlen,2),round(b.ylen,2),round(b.zlen,2)]})
 (O/'geometry_report.json').write_text(json.dumps(report,indent=2))
 with (O/'parts_manifest.csv').open('w',newline='') as f:
-    w=csv.writer(f);w.writerow(['part','quantity','material','volume_mm3','note']);[w.writerow([a[k] for k in ['part','quantity','material','volume_mm3','note']]) for a in report]
+    w=csv.writer(f,lineterminator="\n");w.writerow(['part','quantity','material','volume_mm3','note']);[w.writerow([a[k] for k in ['part','quantity','material','volume_mm3','note']]) for a in report]
 data={'parameters':H,'colors':COL,'instances':INST,'routes':ROUTES,'chains':CHAINS,'meshes':{}}
 for k,m in meshes.items():data['meshes'][k]={'vertices':np.round(m.vertices,3).reshape(-1).tolist(),'faces':m.faces.reshape(-1).tolist()}
 (R/'viewer/model.json').write_text(json.dumps(data,separators=(',',':')));(O/'model.json').write_text(json.dumps(data,separators=(',',':')))

@@ -1,0 +1,77 @@
+{
+  "revision": "A1",
+  "units": "mm",
+  "forearm_length": 253,
+  "motor_envelope": [
+    20,
+    34,
+    26
+  ],
+  "motor_candidate": "ROBOTIS XC330-M288-T envelope only",
+  "motor_channels": 8,
+  "motor_cluster_span_y": [
+    -241,
+    -159
+  ],
+  "motor_body_centers_y": [
+    -224,
+    -177
+  ],
+  "motor_banks_x": [
+    -15,
+    15
+  ],
+  "motor_levels_z": [
+    -15,
+    15
+  ],
+  "proximal_shell_width": 90,
+  "proximal_shell_depth": 70,
+  "distal_shell_width": 56,
+  "distal_shell_depth": 36,
+  "spool_radius": 8,
+  "spool_flange_radius": 10,
+  "spool_horn_status": "Provisional: selected motor's stock horn drawing required",
+  "wrist_flexion_deg": [
+    -30,
+    40
+  ],
+  "wrist_deviation_deg": [
+    -20,
+    20
+  ],
+  "wrist_sector_radius": 14,
+  "wrist_axle_diameter": 5,
+  "hand_rest_translation": [
+    0,
+    38,
+    20
+  ],
+  "wrist_deviation_pivot": [
+    0,
+    12,
+    0
+  ],
+  "finger_root_y": {
+    "index": 87,
+    "middle": 93,
+    "ring": 90,
+    "little": 79
+  },
+  "finger_root_z": {
+    "index": 12.4,
+    "middle": 14,
+    "ring": 13.2,
+    "little": 12.4
+  },
+  "finger_splay_deg": {
+    "index": 4,
+    "middle": 1,
+    "ring": -2,
+    "little": -6
+  },
+  "initial_tendon_tension_N": 8,
+  "design_tendon_tension_N": 20,
+  "allowable_motor_torque_Nm_assumed": 0.25,
+  "status": "Digital anatomy-inspired concept; not a literal replica of human carpal kinematics"
+}

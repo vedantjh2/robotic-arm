@@ -1,0 +1,55 @@
+{
+  "method": "Exact BRep common volume > 0.5 mm^3, 8 wrist/hand poses. Hardware heads, deformable pads, tendons and sheath deformation excluded. This is a sampled geometry test, not a load or full workspace qualification.",
+  "fixed_packaging_interferences": [],
+  "shell_interferences": [],
+  "pose_checks": [
+    {
+      "pose": "neutral",
+      "wrist_flexion_deg": 0,
+      "wrist_deviation_deg": 0,
+      "interferences": []
+    },
+    {
+      "pose": "flexion",
+      "wrist_flexion_deg": 40,
+      "wrist_deviation_deg": 0,
+      "interferences": []
+    },
+    {
+      "pose": "extension",
+      "wrist_flexion_deg": -30,
+      "wrist_deviation_deg": 0,
+      "interferences": []
+    },
+    {
+      "pose": "radial",
+      "wrist_flexion_deg": 0,
+      "wrist_deviation_deg": 20,
+      "interferences": []
+    },
+    {
+      "pose": "ulnar",
+      "wrist_flexion_deg": 0,
+      "wrist_deviation_deg": -20,
+      "interferences": []
+    },
+    {
+      "pose": "combined",
+      "wrist_flexion_deg": 25,
+      "wrist_deviation_deg": 15,
+      "interferences": []
+    },
+    {
+      "pose": "power",
+      "wrist_flexion_deg": 10,
+      "wrist_deviation_deg": 0,
+      "interferences": []
+    },
+    {
+      "pose": "pinch",
+      "wrist_flexion_deg": 12,
+      "wrist_deviation_deg": 5,
+      "interferences": []
+    }
+  ]
+}

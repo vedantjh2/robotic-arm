@@ -1,0 +1,104 @@
+{
+  "method": "Exact BRep common volume, bounding-box prefilter; report overlap > 0.5 mm^3. Eleven illustrative hand poses, including an explicitly excluded self-contact pose. Pins, pads, hardware heads, elastic deformation and cords excluded. Does not prove all-motion clearance.",
+  "hand_pose_checks": [
+    {
+      "pose": "open",
+      "curl_fraction": 0,
+      "thumb_curl_fraction": 0,
+      "opposition_fraction": 0,
+      "interferences": []
+    },
+    {
+      "pose": "opposition sweep 25%",
+      "curl_fraction": 0,
+      "thumb_curl_fraction": 0,
+      "opposition_fraction": 0.25,
+      "interferences": []
+    },
+    {
+      "pose": "opposition sweep 50%",
+      "curl_fraction": 0,
+      "thumb_curl_fraction": 0,
+      "opposition_fraction": 0.5,
+      "interferences": []
+    },
+    {
+      "pose": "opposition sweep 75%",
+      "curl_fraction": 0,
+      "thumb_curl_fraction": 0,
+      "opposition_fraction": 0.75,
+      "interferences": []
+    },
+    {
+      "pose": "opposition sweep 100%",
+      "curl_fraction": 0,
+      "thumb_curl_fraction": 0,
+      "opposition_fraction": 1,
+      "interferences": []
+    },
+    {
+      "pose": "partial curl",
+      "curl_fraction": 0.25,
+      "thumb_curl_fraction": 0.25,
+      "opposition_fraction": 0.25,
+      "interferences": []
+    },
+    {
+      "pose": "half curl",
+      "curl_fraction": 0.5,
+      "thumb_curl_fraction": 0.5,
+      "opposition_fraction": 0.5,
+      "interferences": []
+    },
+    {
+      "pose": "power grasp",
+      "curl_fraction": 0.75,
+      "thumb_curl_fraction": 0.4,
+      "opposition_fraction": 0.65,
+      "interferences": []
+    },
+    {
+      "pose": "pinch",
+      "curl_fraction": 0.48,
+      "thumb_curl_fraction": 0.48,
+      "opposition_fraction": 0.9,
+      "interferences": []
+    },
+    {
+      "pose": "fingers full curl, thumb spread",
+      "curl_fraction": 1,
+      "thumb_curl_fraction": 0,
+      "opposition_fraction": 0,
+      "interferences": []
+    },
+    {
+      "pose": "excluded: simultaneous full curl / full opposition",
+      "curl_fraction": 1,
+      "thumb_curl_fraction": 1,
+      "opposition_fraction": 1,
+      "interferences": [
+        {
+          "a": "index_2",
+          "b": "thumb_1",
+          "intersection_mm3": 322.28
+        },
+        {
+          "a": "index_2",
+          "b": "thumb_2",
+          "intersection_mm3": 208.92
+        },
+        {
+          "a": "index_3",
+          "b": "thumb_1",
+          "intersection_mm3": 1938.16
+        },
+        {
+          "a": "index_3",
+          "b": "thumb_2",
+          "intersection_mm3": 187.82
+        }
+      ]
+    }
+  ],
+  "forearm_open_static_interferences": []
+}

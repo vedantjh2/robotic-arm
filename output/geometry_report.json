@@ -1,0 +1,782 @@
+[
+  {
+    "part": "mcp_root",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 3430.23,
+    "dimensions_mm": [
+      18.02,
+      26.0,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 5,
+    "material": "PETG / PA12",
+    "note": "4 finger roots + 1 thumb root; M3 through bolts"
+  },
+  {
+    "part": "index_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 6782.55,
+    "dimensions_mm": [
+      18.02,
+      56.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "index_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 4469.58,
+    "dimensions_mm": [
+      18.02,
+      42.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "index_3",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 3635.02,
+    "dimensions_mm": [
+      18.0,
+      31.01,
+      18.5
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "index_pad",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 252.0,
+    "dimensions_mm": [
+      14.0,
+      9.0,
+      2.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor"
+  },
+  {
+    "part": "middle_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 7358.55,
+    "dimensions_mm": [
+      18.02,
+      60.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "middle_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 4798.18,
+    "dimensions_mm": [
+      18.02,
+      44.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "middle_3",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 3779.02,
+    "dimensions_mm": [
+      18.0,
+      32.01,
+      18.5
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "middle_pad",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 280.0,
+    "dimensions_mm": [
+      14.0,
+      10.0,
+      2.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor"
+  },
+  {
+    "part": "ring_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 6926.55,
+    "dimensions_mm": [
+      18.02,
+      57.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "ring_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 4469.58,
+    "dimensions_mm": [
+      18.02,
+      42.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "ring_3",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 3635.02,
+    "dimensions_mm": [
+      18.0,
+      31.01,
+      18.5
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "ring_pad",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 252.0,
+    "dimensions_mm": [
+      14.0,
+      9.0,
+      2.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor"
+  },
+  {
+    "part": "little_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 5630.55,
+    "dimensions_mm": [
+      18.02,
+      48.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "little_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 4469.58,
+    "dimensions_mm": [
+      18.02,
+      42.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "little_3",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 3359.02,
+    "dimensions_mm": [
+      18.0,
+      29.01,
+      18.5
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "little_pad",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 224.0,
+    "dimensions_mm": [
+      14.0,
+      8.0,
+      2.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor"
+  },
+  {
+    "part": "thumb_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 6062.55,
+    "dimensions_mm": [
+      18.02,
+      51.01,
+      18.9
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "thumb_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 4499.02,
+    "dimensions_mm": [
+      18.0,
+      37.01,
+      18.5
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "thumb_pad",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 420.0,
+    "dimensions_mm": [
+      14.0,
+      15.0,
+      2.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor"
+  },
+  {
+    "part": "palm_frame",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 48440.34,
+    "dimensions_mm": [
+      104.01,
+      82.0,
+      8.03
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "thumb_pivot_base",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 5915.11,
+    "dimensions_mm": [
+      30.01,
+      28.0,
+      16.02
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "M5 axle; design mechanical opposition stops after thumb sweep verification"
+  },
+  {
+    "part": "thumb_opposition_carrier",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 6004.31,
+    "dimensions_mm": [
+      28.04,
+      39.0,
+      17.02
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "12 mm nominal tendon lever; carrier height separates CMC and MCP"
+  },
+  {
+    "part": "fixed_wrist_bridge",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 36769.22,
+    "dimensions_mm": [
+      82.0,
+      42.0,
+      16.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": ""
+  },
+  {
+    "part": "forearm_chassis",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 365695.03,
+    "dimensions_mm": [
+      110.0,
+      248.0,
+      72.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "Large part 110 x 248 x 72 mm; industrial print or split in downstream CAD"
+  },
+  {
+    "part": "motor_clamp",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 851.68,
+    "dimensions_mm": [
+      43.0,
+      7.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 12,
+    "material": "PETG / PA12",
+    "note": "12 clamps; thin elastomer shim under each; verify body clearance"
+  },
+  {
+    "part": "bowden_comb",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 4590.66,
+    "dimensions_mm": [
+      98.0,
+      6.01,
+      9.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 2,
+    "material": "PETG / PA12",
+    "note": "2 intermediate combs; 4 mm OD lined sheaths"
+  },
+  {
+    "part": "bowden_anchor",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 6760.89,
+    "dimensions_mm": [
+      98.0,
+      6.01,
+      14.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "6 commercial M6 cable barrel adjusters + opposing locknuts; 6.6 mm clearance holes"
+  },
+  {
+    "part": "forearm_cover",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 62254.73,
+    "dimensions_mm": [
+      106.0,
+      240.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "Optional removable cover; shown hidden in assembly preview"
+  },
+  {
+    "part": "tendon_spool",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 5280.63,
+    "dimensions_mm": [
+      30.04,
+      30.0,
+      11.04
+    ],
+    "mesh_watertight": true,
+    "quantity": 6,
+    "material": "PETG / PA12",
+    "note": "6 spools. Horn bolt pattern PROVISIONAL. 24 mm core, 30 mm flange"
+  },
+  {
+    "part": "fit_coupon",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 7406.54,
+    "dimensions_mm": [
+      55.0,
+      28.0,
+      5.0
+    ],
+    "mesh_watertight": null,
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "First row bores 2.8/3.0/3.2/3.3/3.4; second 2.2/2.4/2.6/2.8 mm"
+  },
+  {
+    "part": "motor_body_0",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 45058.5,
+    "dimensions_mm": [
+      28.5,
+      46.5,
+      34.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased",
+    "note": "Simplified verified body envelope; provisional shaft origin"
+  },
+  {
+    "part": "motor_body_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 45058.5,
+    "dimensions_mm": [
+      28.5,
+      46.5,
+      34.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased",
+    "note": "Simplified verified body envelope; provisional shaft origin"
+  },
+  {
+    "part": "motor_body_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 45058.5,
+    "dimensions_mm": [
+      28.5,
+      46.5,
+      34.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased",
+    "note": "Simplified verified body envelope; provisional shaft origin"
+  },
+  {
+    "part": "motor_body_3",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 45058.5,
+    "dimensions_mm": [
+      28.5,
+      46.5,
+      34.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased",
+    "note": "Simplified verified body envelope; provisional shaft origin"
+  },
+  {
+    "part": "motor_body_4",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 45058.5,
+    "dimensions_mm": [
+      28.5,
+      46.5,
+      34.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased",
+    "note": "Simplified verified body envelope; provisional shaft origin"
+  },
+  {
+    "part": "motor_body_5",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 45058.5,
+    "dimensions_mm": [
+      28.5,
+      46.5,
+      34.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased",
+    "note": "Simplified verified body envelope; provisional shaft origin"
+  },
+  {
+    "part": "pin_index_0",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_index_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_index_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_middle_0",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_middle_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_middle_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_ring_0",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_ring_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_ring_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_little_0",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_little_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_little_2",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_thumb_0",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "pin_thumb_1",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled"
+  },
+  {
+    "part": "thumb_axle",
+    "solid_valid": true,
+    "solids": 1,
+    "volume_mm3": 589.05,
+    "dimensions_mm": [
+      5.01,
+      5.0,
+      30.01
+    ],
+    "mesh_watertight": true,
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "M5 shoulder screw + washer + locknut"
+  }
+]

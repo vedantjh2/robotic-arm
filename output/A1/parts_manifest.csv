@@ -1,0 +1,63 @@
+part,quantity,material,volume_mm3,note
+mcp_root,5,PETG / PA12,3430.23,4 finger roots + 1 thumb root; M3 through bolts
+thumb_pivot_base,1,PETG / PA12,5915.11,M5 axle; design mechanical opposition stops after thumb sweep verification
+thumb_opposition_carrier,1,PETG / PA12,6004.31,12 mm nominal tendon lever; carrier height separates CMC and MCP
+index_1,1,PETG / PA12,6782.55,
+index_2,1,PETG / PA12,4469.58,
+index_3,1,PETG / PA12,3635.02,
+middle_1,1,PETG / PA12,7358.55,
+middle_2,1,PETG / PA12,4798.18,
+middle_3,1,PETG / PA12,3779.02,
+ring_1,1,PETG / PA12,6926.55,
+ring_2,1,PETG / PA12,4469.58,
+ring_3,1,PETG / PA12,3635.02,
+little_1,1,PETG / PA12,5630.55,
+little_2,1,PETG / PA12,4469.58,
+little_3,1,PETG / PA12,3359.02,
+thumb_1,1,PETG / PA12,6062.55,
+thumb_2,1,PETG / PA12,4499.02,
+index_pad,1,TPU / silicone,252.0,Bond to distal palmar face; trim clear of tendon anchor
+middle_pad,1,TPU / silicone,280.0,Bond to distal palmar face; trim clear of tendon anchor
+ring_pad,1,TPU / silicone,252.0,Bond to distal palmar face; trim clear of tendon anchor
+little_pad,1,TPU / silicone,224.0,Bond to distal palmar face; trim clear of tendon anchor
+thumb_pad,1,TPU / silicone,420.0,Bond to distal palmar face; trim clear of tendon anchor
+metacarpal_frame,1,PA12 / PETG,49976.82,"Contoured palm, staggered knuckles and longitudinal metacarpal ribs"
+dorsal_shell,1,PA12 / PETG,79539.96,3 mm wall removable anatomical taper; M3 seam fasteners provisional
+palmar_shell,1,PA12 / PETG,79539.96,3 mm wall removable anatomical taper; M3 seam fasteners provisional
+proximal_motor_cassette,1,PA12 / PETG,87603.31,"8 micro-servo cradles fused to central spine, proximal M6 mounting flange"
+micro_servo_clamp,16,PA12 / PETG,497.59,16 clamps; secure selected motor with compliant shim
+radius_rail,1,PA12 / PETG,12891.02,"Hollow 3 mm wall structural rail, capped ends with M4 axial attachment"
+ulna_rail,1,PA12 / PETG,12891.02,"Hollow 3 mm wall structural rail, capped ends with M4 axial attachment"
+radiocarpal_fork,1,PA12 / PETG,17414.19,5 mm D axle in 8 mm OD round bushings. Flexion about X. Fit bushings before loading
+carpal_gimbal,1,PA12 / PETG,5497.0,Crossed-axis wrist simplification; radial/ulnar axis Z at y=12 mm
+carpal_hand_carrier,1,PA12 / PETG,12313.71,"14 mm opposed tendon sector, 4 mm bolt plate; palm bolts at ±18 mm"
+wrist_flexion_sector,1,PA12 / PETG,5419.68,"14 mm opposing cord sector on clamped 5 mm shaft; D bore flat at 2.1 mm, M3 set screw; verify steel D shaft and grub screw torque capacity"
+micro_tendon_spool,6,PA12 / PETG,1620.96,"6 finger/opposition spools; provisional 11 mm bolt circle, no guessed motor spline"
+wrist_dual_spool,2,PA12 / PETG,1731.7,"2 motors, each opposing pair winds in opposite directions; matched 8 mm groove radii"
+tendon_retinaculum,1,PA12 / PETG,2106.4,"Distal tendon guide bridge, 3.3 mm guide holes; M3 feet bolt to fixed wrist fork"
+palmar_bowden_anchor,1,PA12 / PETG,5188.68,6 commercial M6 barrel adjusters with locknuts; moves with hand to isolate wrist motion
+pin_index_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_index_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_index_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_middle_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_middle_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_middle_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_ring_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_ring_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_ring_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_little_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_little_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_little_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_thumb_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_thumb_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+thumb_axle,1,Purchased steel,589.05,M5 shoulder screw + washer + locknut
+flexion_axle,1,Purchased steel,1209.85,5 mm axle / shoulder screw; heads and keepers omitted
+deviation_axle,1,Purchased steel,510.51,5 mm axle / shoulder screw; heads and keepers omitted
+micro_motor_0,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing
+micro_motor_1,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing
+micro_motor_2,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing
+micro_motor_3,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing
+micro_motor_4,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing
+micro_motor_5,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing
+micro_motor_6,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing
+micro_motor_7,1,Purchased XC330 envelope,17680.0,Shaft offset 8 mm and horn plane provisional; verify supplier drawing

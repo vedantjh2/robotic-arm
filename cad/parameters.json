@@ -1,0 +1,85 @@
+{
+  "revision": "A0",
+  "units": "mm",
+  "handedness": "right",
+  "palm_width": 90,
+  "palm_length": 82,
+  "palm_thickness": 8,
+  "finger_width": 18,
+  "pin_diameter": 3,
+  "pin_bore": 3.3,
+  "hinge_radius": 6,
+  "central_lug_width": 8.2,
+  "fork_gap": 9.0,
+  "tendon_guide_bore": 2.6,
+  "tendon_moment_arm": 7.5,
+  "tendon_diameter": 0.8,
+  "spool_radius": 12,
+  "spool_flange_radius": 15,
+  "horn_bolt_circle_radius": 8,
+  "horn_pilot_diameter": 5.2,
+  "horn_interface_status": "PROVISIONAL: measure selected stock horn before manufacture",
+  "motor_envelope": [
+    28.5,
+    46.5,
+    34
+  ],
+  "motor_axis_y_offset": 10.5,
+  "motor_axis_status": "PROVISIONAL: envelope verified; shaft offset and horn plane require vendor drawing",
+  "forearm_width": 106,
+  "forearm_length": 240,
+  "finger_lengths": {
+    "index": [
+      40,
+      26,
+      22
+    ],
+    "middle": [
+      44,
+      28,
+      23
+    ],
+    "ring": [
+      41,
+      26,
+      22
+    ],
+    "little": [
+      32,
+      26,
+      20
+    ],
+    "thumb": [
+      35,
+      28
+    ]
+  },
+  "finger_x": {
+    "index": -32,
+    "middle": -11,
+    "ring": 11,
+    "little": 32
+  },
+  "finger_root_y": 89,
+  "thumb_pivot": [
+    -57,
+    32,
+    0
+  ],
+  "thumb_spread_deg": 55,
+  "thumb_opposed_deg": -35,
+  "thumb_sector_radius": 12,
+  "max_flex_deg": [
+    75,
+    90,
+    60
+  ],
+  "max_thumb_flex_deg": [
+    60,
+    75
+  ],
+  "design_tendon_tension_N": 25,
+  "initial_tendon_tension_N": 8,
+  "allowable_motor_torque_Nm_assumed": 0.45,
+  "thumb_root_height": 32.8
+}

@@ -1,0 +1,932 @@
+[
+  {
+    "part": "mcp_root",
+    "quantity": 5,
+    "material": "PETG / PA12",
+    "note": "4 finger roots + 1 thumb root; M3 through bolts",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 3430.23,
+    "dimensions_mm": [
+      18.02,
+      26.0,
+      18.9
+    ]
+  },
+  {
+    "part": "thumb_pivot_base",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "M5 axle; design mechanical opposition stops after thumb sweep verification",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 5915.11,
+    "dimensions_mm": [
+      30.01,
+      28.0,
+      16.02
+    ]
+  },
+  {
+    "part": "thumb_opposition_carrier",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "12 mm nominal tendon lever; carrier height separates CMC and MCP",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 6004.31,
+    "dimensions_mm": [
+      28.04,
+      39.0,
+      17.02
+    ]
+  },
+  {
+    "part": "index_1",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 6782.55,
+    "dimensions_mm": [
+      18.02,
+      56.01,
+      18.9
+    ]
+  },
+  {
+    "part": "index_2",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 4469.58,
+    "dimensions_mm": [
+      18.02,
+      42.01,
+      18.9
+    ]
+  },
+  {
+    "part": "index_3",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 3635.02,
+    "dimensions_mm": [
+      18.0,
+      31.01,
+      18.5
+    ]
+  },
+  {
+    "part": "middle_1",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 7358.55,
+    "dimensions_mm": [
+      18.02,
+      60.01,
+      18.9
+    ]
+  },
+  {
+    "part": "middle_2",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 4798.18,
+    "dimensions_mm": [
+      18.02,
+      44.01,
+      18.9
+    ]
+  },
+  {
+    "part": "middle_3",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 3779.02,
+    "dimensions_mm": [
+      18.0,
+      32.01,
+      18.5
+    ]
+  },
+  {
+    "part": "ring_1",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 6926.55,
+    "dimensions_mm": [
+      18.02,
+      57.01,
+      18.9
+    ]
+  },
+  {
+    "part": "ring_2",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 4469.58,
+    "dimensions_mm": [
+      18.02,
+      42.01,
+      18.9
+    ]
+  },
+  {
+    "part": "ring_3",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 3635.02,
+    "dimensions_mm": [
+      18.0,
+      31.01,
+      18.5
+    ]
+  },
+  {
+    "part": "little_1",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 5630.55,
+    "dimensions_mm": [
+      18.02,
+      48.01,
+      18.9
+    ]
+  },
+  {
+    "part": "little_2",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 4469.58,
+    "dimensions_mm": [
+      18.02,
+      42.01,
+      18.9
+    ]
+  },
+  {
+    "part": "little_3",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 3359.02,
+    "dimensions_mm": [
+      18.0,
+      29.01,
+      18.5
+    ]
+  },
+  {
+    "part": "thumb_1",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 6062.55,
+    "dimensions_mm": [
+      18.02,
+      51.01,
+      18.9
+    ]
+  },
+  {
+    "part": "thumb_2",
+    "quantity": 1,
+    "material": "PETG / PA12",
+    "note": "",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 4499.02,
+    "dimensions_mm": [
+      18.0,
+      37.01,
+      18.5
+    ]
+  },
+  {
+    "part": "index_pad",
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 252.0,
+    "dimensions_mm": [
+      14.0,
+      9.0,
+      2.0
+    ]
+  },
+  {
+    "part": "middle_pad",
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 280.0,
+    "dimensions_mm": [
+      14.0,
+      10.0,
+      2.0
+    ]
+  },
+  {
+    "part": "ring_pad",
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 252.0,
+    "dimensions_mm": [
+      14.0,
+      9.0,
+      2.0
+    ]
+  },
+  {
+    "part": "little_pad",
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 224.0,
+    "dimensions_mm": [
+      14.0,
+      8.0,
+      2.0
+    ]
+  },
+  {
+    "part": "thumb_pad",
+    "quantity": 1,
+    "material": "TPU / silicone",
+    "note": "Bond to distal palmar face; trim clear of tendon anchor",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 420.0,
+    "dimensions_mm": [
+      14.0,
+      15.0,
+      2.0
+    ]
+  },
+  {
+    "part": "metacarpal_frame",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "Contoured palm, staggered knuckles and longitudinal metacarpal ribs",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 49976.82,
+    "dimensions_mm": [
+      99.86,
+      95.0,
+      9.62
+    ]
+  },
+  {
+    "part": "dorsal_shell",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "3 mm wall removable anatomical taper; M3 seam fasteners provisional",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 79539.96,
+    "dimensions_mm": [
+      91.5,
+      218.75,
+      40.25
+    ]
+  },
+  {
+    "part": "palmar_shell",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "3 mm wall removable anatomical taper; M3 seam fasteners provisional",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 79539.96,
+    "dimensions_mm": [
+      91.5,
+      218.75,
+      40.25
+    ]
+  },
+  {
+    "part": "proximal_motor_cassette",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "8 micro-servo cradles fused to central spine, proximal M6 mounting flange",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 87603.31,
+    "dimensions_mm": [
+      76.0,
+      120.01,
+      60.0
+    ]
+  },
+  {
+    "part": "micro_servo_clamp",
+    "quantity": 16,
+    "material": "PA12 / PETG",
+    "note": "16 clamps; secure selected motor with compliant shim",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 497.59,
+    "dimensions_mm": [
+      30.0,
+      6.0,
+      3.0
+    ]
+  },
+  {
+    "part": "radius_rail",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "Hollow 3 mm wall structural rail, capped ends with M4 axial attachment",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 12891.02,
+    "dimensions_mm": [
+      22.02,
+      104.02,
+      26.01
+    ]
+  },
+  {
+    "part": "ulna_rail",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "Hollow 3 mm wall structural rail, capped ends with M4 axial attachment",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 12891.02,
+    "dimensions_mm": [
+      22.01,
+      104.02,
+      26.01
+    ]
+  },
+  {
+    "part": "radiocarpal_fork",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "5 mm D axle in 8 mm OD round bushings. Flexion about X. Fit bushings before loading",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17414.19,
+    "dimensions_mm": [
+      50.03,
+      44.02,
+      21.0
+    ]
+  },
+  {
+    "part": "carpal_gimbal",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "Crossed-axis wrist simplification; radial/ulnar axis Z at y=12 mm",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 5497.0,
+    "dimensions_mm": [
+      32.01,
+      38.01,
+      8.02
+    ]
+  },
+  {
+    "part": "carpal_hand_carrier",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "14 mm opposed tendon sector, 4 mm bolt plate; palm bolts at \u00b118 mm",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 12313.71,
+    "dimensions_mm": [
+      48.0,
+      69.0,
+      10.03
+    ]
+  },
+  {
+    "part": "wrist_flexion_sector",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "14 mm opposing cord sector on clamped 5 mm shaft; D bore flat at 2.1 mm, M3 set screw; verify steel D shaft and grub screw torque capacity",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 5419.68,
+    "dimensions_mm": [
+      8.05,
+      32.0,
+      32.05
+    ]
+  },
+  {
+    "part": "micro_tendon_spool",
+    "quantity": 6,
+    "material": "PA12 / PETG",
+    "note": "6 finger/opposition spools; provisional 11 mm bolt circle, no guessed motor spline",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 1620.96,
+    "dimensions_mm": [
+      20.03,
+      20.0,
+      8.03
+    ]
+  },
+  {
+    "part": "wrist_dual_spool",
+    "quantity": 2,
+    "material": "PA12 / PETG",
+    "note": "2 motors, each opposing pair winds in opposite directions; matched 8 mm groove radii",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 1731.7,
+    "dimensions_mm": [
+      20.03,
+      20.0,
+      8.03
+    ]
+  },
+  {
+    "part": "tendon_retinaculum",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "Distal tendon guide bridge, 3.3 mm guide holes; M3 feet bolt to fixed wrist fork",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 2106.4,
+    "dimensions_mm": [
+      48.0,
+      6.0,
+      16.0
+    ]
+  },
+  {
+    "part": "palmar_bowden_anchor",
+    "quantity": 1,
+    "material": "PA12 / PETG",
+    "note": "6 commercial M6 barrel adjusters with locknuts; moves with hand to isolate wrist motion",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 5188.68,
+    "dimensions_mm": [
+      78.0,
+      6.02,
+      14.0
+    ]
+  },
+  {
+    "part": "pin_index_0",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_index_1",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_index_2",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_middle_0",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_middle_1",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_middle_2",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_ring_0",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_ring_1",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_ring_2",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_little_0",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_little_1",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_little_2",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_thumb_0",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "pin_thumb_1",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "Simplified pin. Retention hardware not modeled",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 155.51,
+    "dimensions_mm": [
+      22.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "part": "thumb_axle",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "M5 shoulder screw + washer + locknut",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 589.05,
+    "dimensions_mm": [
+      5.01,
+      5.0,
+      30.01
+    ]
+  },
+  {
+    "part": "flexion_axle",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "5 mm axle / shoulder screw; heads and keepers omitted",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 1209.85,
+    "dimensions_mm": [
+      65.01,
+      5.0,
+      4.51
+    ]
+  },
+  {
+    "part": "deviation_axle",
+    "quantity": 1,
+    "material": "Purchased steel",
+    "note": "5 mm axle / shoulder screw; heads and keepers omitted",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 510.51,
+    "dimensions_mm": [
+      5.01,
+      5.0,
+      26.01
+    ]
+  },
+  {
+    "part": "micro_motor_0",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  },
+  {
+    "part": "micro_motor_1",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  },
+  {
+    "part": "micro_motor_2",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  },
+  {
+    "part": "micro_motor_3",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  },
+  {
+    "part": "micro_motor_4",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  },
+  {
+    "part": "micro_motor_5",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  },
+  {
+    "part": "micro_motor_6",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  },
+  {
+    "part": "micro_motor_7",
+    "quantity": 1,
+    "material": "Purchased XC330 envelope",
+    "note": "Shaft offset 8 mm and horn plane provisional; verify supplier drawing",
+    "solid_valid": true,
+    "solids": 1,
+    "mesh_watertight": true,
+    "volume_mm3": 17680.0,
+    "dimensions_mm": [
+      20.0,
+      34.0,
+      26.0
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+part,quantity,material,volume_mm3,note
+mcp_root,5,PETG / PA12,3430.23,4 finger roots + 1 thumb root; M3 through bolts
+index_1,1,PETG / PA12,6782.55,
+index_2,1,PETG / PA12,4469.58,
+index_3,1,PETG / PA12,3635.02,
+index_pad,1,TPU / silicone,252.0,Bond to distal palmar face; trim clear of tendon anchor
+middle_1,1,PETG / PA12,7358.55,
+middle_2,1,PETG / PA12,4798.18,
+middle_3,1,PETG / PA12,3779.02,
+middle_pad,1,TPU / silicone,280.0,Bond to distal palmar face; trim clear of tendon anchor
+ring_1,1,PETG / PA12,6926.55,
+ring_2,1,PETG / PA12,4469.58,
+ring_3,1,PETG / PA12,3635.02,
+ring_pad,1,TPU / silicone,252.0,Bond to distal palmar face; trim clear of tendon anchor
+little_1,1,PETG / PA12,5630.55,
+little_2,1,PETG / PA12,4469.58,
+little_3,1,PETG / PA12,3359.02,
+little_pad,1,TPU / silicone,224.0,Bond to distal palmar face; trim clear of tendon anchor
+thumb_1,1,PETG / PA12,6062.55,
+thumb_2,1,PETG / PA12,4499.02,
+thumb_pad,1,TPU / silicone,420.0,Bond to distal palmar face; trim clear of tendon anchor
+palm_frame,1,PETG / PA12,48440.34,
+thumb_pivot_base,1,PETG / PA12,5915.11,M5 axle; design mechanical opposition stops after thumb sweep verification
+thumb_opposition_carrier,1,PETG / PA12,6004.31,12 mm nominal tendon lever; carrier height separates CMC and MCP
+fixed_wrist_bridge,1,PETG / PA12,36769.22,
+forearm_chassis,1,PETG / PA12,365695.03,Large part 110 x 248 x 72 mm; industrial print or split in downstream CAD
+motor_clamp,12,PETG / PA12,851.68,12 clamps; thin elastomer shim under each; verify body clearance
+bowden_comb,2,PETG / PA12,4590.66,2 intermediate combs; 4 mm OD lined sheaths
+bowden_anchor,1,PETG / PA12,6760.89,6 commercial M6 cable barrel adjusters + opposing locknuts; 6.6 mm clearance holes
+forearm_cover,1,PETG / PA12,62254.73,Optional removable cover; shown hidden in assembly preview
+tendon_spool,6,PETG / PA12,5280.63,"6 spools. Horn bolt pattern PROVISIONAL. 24 mm core, 30 mm flange"
+fit_coupon,1,PETG / PA12,7406.54,First row bores 2.8/3.0/3.2/3.3/3.4; second 2.2/2.4/2.6/2.8 mm
+motor_body_0,1,Purchased,45058.5,Simplified verified body envelope; provisional shaft origin
+motor_body_1,1,Purchased,45058.5,Simplified verified body envelope; provisional shaft origin
+motor_body_2,1,Purchased,45058.5,Simplified verified body envelope; provisional shaft origin
+motor_body_3,1,Purchased,45058.5,Simplified verified body envelope; provisional shaft origin
+motor_body_4,1,Purchased,45058.5,Simplified verified body envelope; provisional shaft origin
+motor_body_5,1,Purchased,45058.5,Simplified verified body envelope; provisional shaft origin
+pin_index_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_index_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_index_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_middle_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_middle_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_middle_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_ring_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_ring_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_ring_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_little_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_little_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_little_2,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_thumb_0,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+pin_thumb_1,1,Purchased steel,155.51,Simplified pin. Retention hardware not modeled
+thumb_axle,1,Purchased steel,589.05,M5 shoulder screw + washer + locknut
